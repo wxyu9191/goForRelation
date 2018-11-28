@@ -1,0 +1,31 @@
+{
+	"comment": "",
+	"ignore": "test",
+	"package": [
+		{
+			"checksumSHA1": "YUHv0o6NCXLJGQ5nR8f8f0IK/ZI=",
+			"path": "github.com/google/gopacket",
+			"revision": "ec90f6c2c025516eabdf6bf374b615ff0bf32c21",
+			"revisionTime": "2018-11-08T09:07:53Z"
+		},
+		{
+			"checksumSHA1": "yqSAeCk6Dg/6K+x6X/Zu/tgbC5w=",
+			"path": "github.com/google/gopacket/layers",
+			"revision": "ec90f6c2c025516eabdf6bf374b615ff0bf32c21",
+			"revisionTime": "2018-11-08T09:07:53Z"
+		},
+		{
+			"checksumSHA1": "K/ZCqnn9Y7FMc4c7aijBWt1bQoY=",
+			"path": "github.com/google/gopacket/pcap",
+			"revision": "ec90f6c2c025516eabdf6bf374b615ff0bf32c21",
+			"revisionTime": "2018-11-08T09:07:53Z"
+		},
+		{
+			"checksumSHA1": "xGlhb4NZjBVCNSbb7GIMvhn6mQg=",
+			"path": "github.com/robfig/cron",
+			"revision": "b41be1df696709bb6395fe435af20370037c0b4c",
+			"revisionTime": "2018-05-05T20:34:41Z"
+		}
+	],
+	"rootPath": "relationrate"
+}
